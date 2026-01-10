@@ -193,7 +193,7 @@
   :position 28
   :quantity 3
   :set-id "system-update-2021"}
- {:card-id "the-maker-s-eye"
+ {:card-id "the-makers-eye"
   :code "31029"
   :flavor "The incoming datafeed is blunted, rendered into a soft lie our brains can understand. Seeing the Reality beyond takes dedication and practice."
   :illustrator "N. Hopkins"
@@ -235,7 +235,7 @@
   :position 34
   :quantity 3
   :set-id "system-update-2021"}
- {:card-id "aesop-s-pawnshop"
+ {:card-id "aesops-pawnshop"
   :code "31035"
   :flavor "If you have something to sell, Aesop is interested in buying. The only detail he won’t ask is where you got it."
   :illustrator "Krembler & Alexis Spicer"

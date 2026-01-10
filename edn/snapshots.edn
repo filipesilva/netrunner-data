@@ -1,0 +1,628 @@
+[{:active false
+  :card_cycle_ids ["ashes" "borealis" "core_set" "creation_and_control" "data_and_destiny" "elevation" "flashpoint" "genesis" "honor_and_profit" "kitara" "liberation" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "napd_multiplayer" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "salvaged_memories" "sansan" "spin" "system_core_2019" "system_gateway" "system_update_2021"]
+  :card_pool_id "eternal"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "core_set" "creation_and_control" "data_and_destiny" "elevation" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "napd_multiplayer" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "salvaged_memories"
+                 "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "system_core_2019" "system_gateway" "system_update_2021" "terminal_directive_cards"]
+  :date_start "2017-10-01"
+  :format_id "eternal"
+  :id "eternal_0"
+  :num_cards 1951
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "core_set" "creation_and_control" "data_and_destiny" "elevation" "flashpoint" "genesis" "honor_and_profit" "kitara" "liberation" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "napd_multiplayer" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "salvaged_memories" "sansan" "spin" "system_core_2019" "system_gateway" "system_update_2021"]
+  :card_pool_id "eternal"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "core_set" "creation_and_control" "data_and_destiny" "elevation" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "napd_multiplayer" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "salvaged_memories"
+                 "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "system_core_2019" "system_gateway" "system_update_2021" "terminal_directive_cards"]
+  :date_start "2021-07-10"
+  :format_id "eternal"
+  :id "eternal_1"
+  :num_cards 1951
+  :restriction_id "eternal_points_list_1_0"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "core_set" "creation_and_control" "data_and_destiny" "elevation" "flashpoint" "genesis" "honor_and_profit" "kitara" "liberation" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "napd_multiplayer" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "salvaged_memories" "sansan" "spin" "system_core_2019" "system_gateway" "system_update_2021"]
+  :card_pool_id "eternal"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "core_set" "creation_and_control" "data_and_destiny" "elevation" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "napd_multiplayer" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "salvaged_memories"
+                 "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "system_core_2019" "system_gateway" "system_update_2021" "terminal_directive_cards"]
+  :date_start "2021-11-12"
+  :format_id "eternal"
+  :id "eternal_2"
+  :num_cards 1951
+  :restriction_id "eternal_points_list_21_11"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "core_set" "creation_and_control" "data_and_destiny" "elevation" "flashpoint" "genesis" "honor_and_profit" "kitara" "liberation" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "napd_multiplayer" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "salvaged_memories" "sansan" "spin" "system_core_2019" "system_gateway" "system_update_2021"]
+  :card_pool_id "eternal"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "core_set" "creation_and_control" "data_and_destiny" "elevation" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "napd_multiplayer" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "salvaged_memories"
+                 "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "system_core_2019" "system_gateway" "system_update_2021" "terminal_directive_cards"]
+  :date_start "2022-09-26"
+  :format_id "eternal"
+  :id "eternal_3"
+  :num_cards 1951
+  :restriction_id "eternal_points_list_22_09"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "core_set" "creation_and_control" "data_and_destiny" "elevation" "flashpoint" "genesis" "honor_and_profit" "kitara" "liberation" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "napd_multiplayer" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "salvaged_memories" "sansan" "spin" "system_core_2019" "system_gateway" "system_update_2021"]
+  :card_pool_id "eternal"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "core_set" "creation_and_control" "data_and_destiny" "elevation" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "napd_multiplayer" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "salvaged_memories"
+                 "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "system_core_2019" "system_gateway" "system_update_2021" "terminal_directive_cards"]
+  :date_start "2023-03-31"
+  :format_id "eternal"
+  :id "eternal_4"
+  :num_cards 1951
+  :restriction_id "eternal_points_list_23_03"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "core_set" "creation_and_control" "data_and_destiny" "elevation" "flashpoint" "genesis" "honor_and_profit" "kitara" "liberation" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "napd_multiplayer" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "salvaged_memories" "sansan" "spin" "system_core_2019" "system_gateway" "system_update_2021"]
+  :card_pool_id "eternal"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "core_set" "creation_and_control" "data_and_destiny" "elevation" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "napd_multiplayer" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "salvaged_memories"
+                 "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "system_core_2019" "system_gateway" "system_update_2021" "terminal_directive_cards"]
+  :date_start "2023-12-08"
+  :format_id "eternal"
+  :id "eternal_5"
+  :num_cards 1951
+  :restriction_id "eternal_points_list_23_11"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "core_set" "creation_and_control" "data_and_destiny" "elevation" "flashpoint" "genesis" "honor_and_profit" "kitara" "liberation" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "napd_multiplayer" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "salvaged_memories" "sansan" "spin" "system_core_2019" "system_gateway" "system_update_2021"]
+  :card_pool_id "eternal"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "core_set" "creation_and_control" "data_and_destiny" "elevation" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "napd_multiplayer" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "salvaged_memories"
+                 "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "system_core_2019" "system_gateway" "system_update_2021" "terminal_directive_cards"]
+  :date_start "2025-04-04"
+  :format_id "eternal"
+  :id "eternal_6"
+  :num_cards 1951
+  :restriction_id "eternal_points_list_25_04"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active true
+  :card_cycle_ids ["ashes" "borealis" "core_set" "creation_and_control" "data_and_destiny" "elevation" "flashpoint" "genesis" "honor_and_profit" "kitara" "liberation" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "napd_multiplayer" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "salvaged_memories" "sansan" "spin" "system_core_2019" "system_gateway" "system_update_2021"]
+  :card_pool_id "eternal"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "core_set" "creation_and_control" "data_and_destiny" "elevation" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "napd_multiplayer" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "salvaged_memories"
+                 "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "system_core_2019" "system_gateway" "system_update_2021" "terminal_directive_cards"]
+  :date_start "2025-07-31"
+  :format_id "eternal"
+  :id "eternal_7"
+  :num_cards 1951
+  :restriction_id "eternal_points_list_25_07"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids []
+  :card_pool_id "ram_0"
+  :card_set_ids ["business_first" "chrome_city" "core_set" "daedalus_complex" "double_time" "downfall" "escalation" "humanitys_shadow" "mala_tempora" "martial_law" "quorum" "system_gateway" "up_and_over" "upstalk"]
+  :date_start "2021-12-07"
+  :format_id "ram"
+  :id "ram_0"
+  :num_cards 472
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids []
+  :card_pool_id "ram_1"
+  :card_set_ids ["creation_and_control" "daedalus_complex" "down_the_white_nile" "downfall" "earths_scion" "escalation" "fear_and_loathing" "honor_and_profit" "kampala_ascendent" "martial_law" "quorum" "up_and_over" "what_lies_ahead" "whispers_in_nalubaale"]
+  :date_start "2021-12-18"
+  :format_id "ram"
+  :id "ram_1"
+  :num_cards 395
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids []
+  :card_pool_id "ram_2"
+  :card_set_ids ["all_that_remains" "blood_and_water" "breaker_bay" "chrome_city" "core_set" "humanitys_shadow" "intervention" "opening_moves" "revised_core_set" "the_devil_and_the_dragon" "the_underway" "the_universe_of_tomorrow" "trace_amount" "uprising"]
+  :date_start "2022-01-01"
+  :format_id "ram"
+  :id "ram_2"
+  :num_cards 443
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids []
+  :card_pool_id "ram_3"
+  :card_set_ids ["a_study_in_static" "business_first" "creation_and_control" "crimson_dust" "fear_the_masses" "first_contact" "mala_tempora" "old_hollywood" "quorum" "reign_and_reverie" "sovereign_sight" "the_liberated_mind" "true_colors" "upstalk"]
+  :date_start "2022-01-15"
+  :format_id "ram"
+  :id "ram_3"
+  :num_cards 350
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids []
+  :card_pool_id "ram_4"
+  :card_set_ids ["blood_and_water" "council_of_the_crest" "cyber_exodus" "daedalus_complex" "data_and_destiny" "fear_and_loathing" "honor_and_profit" "kala_ghoda" "magnum_opus_reprint" "martial_law" "salvaged_memories" "second_thoughts" "the_valley" "up_and_over"]
+  :date_start "2022-01-29"
+  :format_id "ram"
+  :id "ram_4"
+  :num_cards 331
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids []
+  :card_pool_id "ram_5"
+  :card_set_ids ["23_seconds" "all_that_remains" "core_set" "future_proof" "mala_tempora" "old_hollywood" "reign_and_reverie" "salsette_island" "station_one" "the_devil_and_the_dragon" "the_source" "the_underway" "upstalk" "what_lies_ahead"]
+  :date_start "2022-02-12"
+  :format_id "ram"
+  :id "ram_5"
+  :num_cards 410
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "kitara" "liberation" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2023"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2024-03-30"
+  :format_id "standard"
+  :id "standard_26"
+  :num_cards 853
+  :restriction_id "standard_ban_list_24_03"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "kitara" "liberation" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2023"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2024-12-26"
+  :format_id "standard"
+  :id "standard_29"
+  :num_cards 853
+  :restriction_id "standard_ban_list_24_12"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "elevation" "liberation" "system_gateway"]
+  :card_pool_id "rotation_2025"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "elevation" "rebellion_without_rehearsal" "the_automata_initiative" "system_gateway"]
+  :date_start "2025-04-24"
+  :format_id "standard"
+  :id "standard_30"
+  :num_cards 547
+  :restriction_id "standard_ban_list_25_04"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "elevation" "liberation" "system_gateway"]
+  :card_pool_id "rotation_2025"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "elevation" "rebellion_without_rehearsal" "the_automata_initiative" "system_gateway"]
+  :date_start "2025-08-01"
+  :format_id "standard"
+  :id "standard_31"
+  :num_cards 547
+  :restriction_id "standard_ban_list_25_08"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active true
+  :card_cycle_ids ["ashes" "borealis" "elevation" "liberation" "system_gateway"]
+  :card_pool_id "rotation_2025"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "elevation" "rebellion_without_rehearsal" "the_automata_initiative" "system_gateway"]
+  :date_start "2025-10-03"
+  :format_id "standard"
+  :id "standard_32"
+  :num_cards 547
+  :restriction_id "standard_ban_list_25_10"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "elevation" "liberation" "system_gateway"]
+  :card_pool_id "rotation_2025"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "elevation" "rebellion_without_rehearsal" "the_automata_initiative" "system_gateway"]
+  :date_start "2025-12-01"
+  :format_id "standard"
+  :id "standard_33"
+  :num_cards 547
+  :restriction_id "standard_ban_list_25_12"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["liberation" "system_gateway" "system_update_2021"]
+  :card_pool_id "startup_liberation"
+  :card_set_ids ["rebellion_without_rehearsal" "the_automata_initiative" "system_gateway" "system_update_2021"]
+  :date_start "2024-03-30"
+  :format_id "startup"
+  :id "startup_6"
+  :num_cards 289
+  :restriction_id "startup_ban_list_24_09"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["elevation" "liberation" "system_gateway"]
+  :card_pool_id "startup_elevation"
+  :card_set_ids ["elevation" "rebellion_without_rehearsal" "the_automata_initiative" "system_gateway"]
+  :date_start "2025-04-24"
+  :format_id "startup"
+  :id "startup_7"
+  :num_cards 289
+  :restriction_id "startup_balance_update_25_04"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active true
+  :card_cycle_ids ["elevation" "liberation" "system_gateway"]
+  :card_pool_id "startup_elevation"
+  :card_set_ids ["elevation" "rebellion_without_rehearsal" "the_automata_initiative" "system_gateway"]
+  :date_start "2025-11-03"
+  :format_id "startup"
+  :id "startup_8"
+  :num_cards 289
+  :restriction_id "startup_balance_update_25_11"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids []
+  :card_pool_id "ram_6"
+  :card_set_ids ["chrome_city" "data_and_destiny" "double_time" "earths_scion" "fear_and_loathing" "intervention" "kala_ghoda" "quorum" "salvaged_memories" "second_thoughts" "sovereign_sight" "system_gateway" "up_and_over" "whispers_in_nalubaale"]
+  :date_start "2022-02-26"
+  :format_id "ram"
+  :id "ram_6"
+  :num_cards 366
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active true
+  :card_cycle_ids []
+  :card_pool_id "ram_7"
+  :card_set_ids ["all_that_remains" "creation_and_control" "daedalus_complex" "fear_the_masses" "magnum_opus_reprint" "opening_moves" "quorum" "revised_core_set" "salsette_island" "salvaged_memories" "the_devil_and_the_dragon" "the_liberated_mind" "up_and_over" "upstalk"]
+  :date_start "2022-11-12"
+  :format_id "ram"
+  :id "ram_7"
+  :num_cards 399
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active true
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "sansan"]
+  :card_pool_id "snapshot"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "terminal_directive_cards"]
+  :date_start "2018-11-16"
+  :format_id "snapshot"
+  :id "snapshot_0"
+  :num_cards 1181
+  :restriction_id "snapshot_ban_list_1_0"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["core_set" "creation_and_control" "data_and_destiny" "flashpoint" "genesis" "honor_and_profit" "lunar" "mumbad" "order_and_chaos" "red_sand" "sansan" "spin"]
+  :card_pool_id "pre_rotation"
+  :card_set_ids ["core_set" "creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "terminal_directive_cards"]
+  :date_start "2012-09-06"
+  :format_id "standard"
+  :id "standard_0"
+  :num_cards 1224
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["core_set" "creation_and_control" "data_and_destiny" "flashpoint" "genesis" "honor_and_profit" "lunar" "mumbad" "order_and_chaos" "red_sand" "sansan" "spin"]
+  :card_pool_id "pre_rotation"
+  :card_set_ids ["core_set" "creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "terminal_directive_cards"]
+  :date_start "2016-02-01"
+  :format_id "standard"
+  :id "standard_1"
+  :num_cards 1224
+  :restriction_id "napd_mwl_1_0"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["core_set" "creation_and_control" "data_and_destiny" "flashpoint" "genesis" "honor_and_profit" "lunar" "mumbad" "order_and_chaos" "red_sand" "sansan" "spin"]
+  :card_pool_id "pre_rotation"
+  :card_set_ids ["core_set" "creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "terminal_directive_cards"]
+  :date_start "2016-08-01"
+  :format_id "standard"
+  :id "standard_2"
+  :num_cards 1224
+  :restriction_id "napd_mwl_1_1"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["core_set" "creation_and_control" "data_and_destiny" "flashpoint" "genesis" "honor_and_profit" "lunar" "mumbad" "order_and_chaos" "red_sand" "sansan" "spin"]
+  :card_pool_id "pre_rotation"
+  :card_set_ids ["core_set" "creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "future_proof" "humanitys_shadow" "a_study_in_static" "cyber_exodus" "trace_amount" "what_lies_ahead" "honor_and_profit" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "fear_and_loathing" "true_colors" "mala_tempora" "second_thoughts" "opening_moves" "double_time" "terminal_directive_cards"]
+  :date_start "2017-04-12"
+  :format_id "standard"
+  :id "standard_3"
+  :num_cards 1224
+  :restriction_id "napd_mwl_1_2"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "sansan"]
+  :card_pool_id "rotation_2017"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "terminal_directive_cards"]
+  :date_start "2017-10-01"
+  :format_id "standard"
+  :id "standard_4"
+  :num_cards 1181
+  :restriction_id "napd_mwl_2_0"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "sansan"]
+  :card_pool_id "rotation_2017"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "terminal_directive_cards"]
+  :date_start "2018-02-26"
+  :format_id "standard"
+  :id "standard_5"
+  :num_cards 1181
+  :restriction_id "napd_mwl_2_1"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "revised_core_set" "sansan"]
+  :card_pool_id "rotation_2017"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "revised_core_set" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "terminal_directive_cards"]
+  :date_start "2018-09-06"
+  :format_id "standard"
+  :id "standard_6"
+  :num_cards 1181
+  :restriction_id "napd_mwl_2_2"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2018"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2018-12-21"
+  :format_id "standard"
+  :id "standard_7"
+  :num_cards 1119
+  :restriction_id "standard_mwl_3_0"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2018"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2019-02-22"
+  :format_id "standard"
+  :id "standard_8"
+  :num_cards 1119
+  :restriction_id "standard_mwl_3_1"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2018"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2019-05-10"
+  :format_id "standard"
+  :id "standard_9"
+  :num_cards 1119
+  :restriction_id "standard_mwl_3_2"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2018"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2019-07-19"
+  :format_id "standard"
+  :id "standard_10"
+  :num_cards 1119
+  :restriction_id "standard_mwl_3_3"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["creation_and_control" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "lunar" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2018"
+  :card_set_ids ["creation_and_control" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "the_source" "all_that_remains" "up_and_over" "first_contact" "the_spaces_between" "upstalk" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2019-09-20"
+  :format_id "standard"
+  :id "standard_11"
+  :num_cards 1119
+  :restriction_id "standard_mwl_3_4"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2019"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2019-12-27"
+  :format_id "standard"
+  :id "standard_12"
+  :num_cards 1088
+  :restriction_id "standard_mwl_3_4"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2019"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2019-12-31"
+  :format_id "standard"
+  :id "standard_13"
+  :num_cards 1088
+  :restriction_id "standard_mwl_3_4_b"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2019"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2020-06-26"
+  :format_id "standard"
+  :id "standard_14"
+  :num_cards 1088
+  :restriction_id "standard_ban_list_20_06"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2019"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2020-09-25"
+  :format_id "standard"
+  :id "standard_15"
+  :num_cards 1088
+  :restriction_id "standard_ban_list_20_09"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "honor_and_profit" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "salvaged_memories" "sansan" "system_core_2019"]
+  :card_pool_id "rotation_2020"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "honor_and_profit" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "salvaged_memories" "the_universe_of_tomorrow" "old_hollywood" "the_underway" "chrome_city" "breaker_bay" "the_valley" "system_core_2019"]
+  :date_start "2020-12-18"
+  :format_id "standard"
+  :id "standard_16"
+  :num_cards 1106
+  :restriction_id "standard_ban_list_20_09"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2021"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2021-04-09"
+  :format_id "standard"
+  :id "standard_17"
+  :num_cards 935
+  :restriction_id "standard_ban_list_21_04"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2021"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2021-05-01"
+  :format_id "standard"
+  :id "standard_18"
+  :num_cards 935
+  :restriction_id "standard_ban_list_21_05"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2021"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2021-06-19"
+  :format_id "standard"
+  :id "standard_19"
+  :num_cards 935
+  :restriction_id "standard_ban_list_21_06"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "data_and_destiny" "flashpoint" "kitara" "magnum_opus" "magnum_opus_reprint" "mumbad" "order_and_chaos" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2021"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "fear_the_masses" "the_liberated_mind" "salsette_island" "democracy_and_dogma" "business_first" "kala_ghoda" "order_and_chaos" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2021-10-29"
+  :format_id "standard"
+  :id "standard_20"
+  :num_cards 935
+  :restriction_id "standard_ban_list_21_10"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "data_and_destiny" "flashpoint" "kitara" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2022"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2022-08-05"
+  :format_id "standard"
+  :id "standard_21"
+  :num_cards 896
+  :restriction_id "standard_ban_list_22_08"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "data_and_destiny" "flashpoint" "kitara" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2022"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2022-09-23"
+  :format_id "standard"
+  :id "standard_22"
+  :num_cards 896
+  :restriction_id "standard_ban_list_22_09"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "data_and_destiny" "flashpoint" "kitara" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2022"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "data_and_destiny" "quorum" "martial_law" "intervention" "escalation" "blood_money" "23_seconds" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2023-03-03"
+  :format_id "standard"
+  :id "standard_23"
+  :num_cards 896
+  :restriction_id "standard_ban_list_23_03"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "kitara" "liberation" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2023"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2023-08-11"
+  :format_id "standard"
+  :id "standard_24"
+  :num_cards 853
+  :restriction_id "standard_ban_list_23_08"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "kitara" "liberation" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2023"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2023-09-22"
+  :format_id "standard"
+  :id "standard_25"
+  :num_cards 853
+  :restriction_id "standard_ban_list_23_09"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "kitara" "liberation" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2023"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2024-05-31"
+  :format_id "standard"
+  :id "standard_27"
+  :num_cards 853
+  :restriction_id "standard_ban_list_24_05"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "kitara" "liberation" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2023"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2024-09-13"
+  :format_id "standard"
+  :id "standard_28"
+  :num_cards 853
+  :restriction_id "standard_ban_list_24_09"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "borealis" "kitara" "liberation" "magnum_opus" "magnum_opus_reprint" "red_sand" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :card_pool_id "rotation_2023"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "parhelion" "midnight_sun" "midnight_sun_booster_pack" "kampala_ascendent" "whispers_in_nalubaale" "the_devil_and_the_dragon" "council_of_the_crest" "down_the_white_nile" "sovereign_sight" "rebellion_without_rehearsal" "the_automata_initiative" "magnum_opus" "magnum_opus_reprint" "crimson_dust" "free_mars" "blood_and_water" "earths_scion" "station_one" "daedalus_complex" "reign_and_reverie" "system_gateway" "system_update_2021"]
+  :date_start "2023-09-21"
+  :format_id "standard"
+  :id "sunset_01"
+  :num_cards 853
+  :restriction_id "sunset_ban_list_24_01"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "system_gateway" "system_update_2021"]
+  :card_pool_id "startup_ashes"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "system_gateway" "system_update_2021"]
+  :date_start "2019-03-18"
+  :format_id "startup"
+  :id "startup_0"
+  :num_cards 289
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "system_gateway" "system_update_2021"]
+  :card_pool_id "startup_ashes_plus"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "system_gateway" "system_update_2021" "midnight_sun_booster_pack"]
+  :date_start "2022-03-04"
+  :format_id "startup"
+  :id "startup_1"
+  :num_cards 296
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["ashes" "system_gateway" "system_update_2021"]
+  :card_pool_id "startup_ashes_plus_midnight_sun"
+  :card_set_ids ["uprising" "uprising_booster_pack" "downfall" "system_gateway" "system_update_2021" "midnight_sun" "midnight_sun_booster_pack"]
+  :date_start "2022-07-22"
+  :format_id "startup"
+  :id "startup_2"
+  :num_cards 354
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["borealis" "system_gateway" "system_update_2021"]
+  :card_pool_id "startup_borealis"
+  :card_set_ids ["parhelion" "midnight_sun" "midnight_sun_booster_pack" "system_gateway" "system_update_2021"]
+  :date_start "2022-12-09"
+  :format_id "startup"
+  :id "startup_3"
+  :num_cards 287
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["borealis" "system_gateway" "system_update_2021"]
+  :card_pool_id "startup_borealis_plus_the_automata_initiative"
+  :card_set_ids ["parhelion" "midnight_sun" "midnight_sun_booster_pack" "system_gateway" "system_update_2021" "the_automata_initiative"]
+  :date_start "2023-08-11"
+  :format_id "startup"
+  :id "startup_4"
+  :num_cards 352
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active false
+  :card_cycle_ids ["borealis" "system_gateway" "system_update_2021"]
+  :card_pool_id "startup_borealis_plus_the_automata_initiative"
+  :card_set_ids ["parhelion" "midnight_sun" "midnight_sun_booster_pack" "system_gateway" "system_update_2021" "the_automata_initiative"]
+  :date_start "2024-01-19"
+  :format_id "startup"
+  :id "startup_5"
+  :num_cards 352
+  :restriction_id "startup_ban_list_24_01"
+  :updated_at "2025-11-19T18:40:59+00:00"}
+ {:active true
+  :card_cycle_ids ["system_gateway"]
+  :card_pool_id "system_gateway"
+  :card_set_ids ["system_gateway"]
+  :date_start "2021-04-09"
+  :format_id "system_gateway"
+  :id "system_gateway_0"
+  :num_cards 77
+  :restriction_id nil
+  :updated_at "2025-11-19T18:40:59+00:00"}]

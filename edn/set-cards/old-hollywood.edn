@@ -60,14 +60,14 @@
   :position 89
   :quantity 3
   :set-id "old-hollywood"}
- {:card-id "it-s-a-trap"
+ {:card-id "its-a-trap"
   :code "08090"
   :flavor "I warned you."
   :illustrator "Liiga Smilshkalne"
   :position 90
   :quantity 3
   :set-id "old-hollywood"}
- {:card-id "an-offer-you-can-t-refuse"
+ {:card-id "an-offer-you-cant-refuse"
   :code "08091"
   :illustrator "A. Jones"
   :position 91

@@ -5,7 +5,7 @@
   :position 41
   :quantity 3
   :set-id "first-contact"}
- {:card-id "eliza-s-toybox"
+ {:card-id "elizas-toybox"
   :code "06042"
   :flavor "Eliza's Toybox is the preeminent purveyor of high-class debauchery on the moon, courtesy of its bioroid pleasure models and other exotica. Every fantasy has its price."
   :illustrator "Henning Ludvigsen"
@@ -86,7 +86,7 @@
   :position 53
   :quantity 3
   :set-id "first-contact"}
- {:card-id "duggar-s"
+ {:card-id "duggars"
   :code "06054"
   :flavor "Carved directly out of the lunar rock, Duggar's is a popular spot among blue-collar loonies and slumming risties. A place where you could find what you're looking for-if you knew who to look for, and didn't get distracted by the energetic dancers."
   :illustrator "Gong Studios"

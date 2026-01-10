@@ -152,8 +152,11 @@
   :set-id "elevation"}
  {:card-id "dewi-subrotoputri-pedagogical-dhalang"
   :code "35023"
-  :flavor "Who else will teach the stories of good and evil?\nWe can’t leave the corps’ dirty deeds in the shadows."
+  :faces [{:flavor "We can’t leave the corps’ dirty deeds in the shadows."
+           :index 0}]
+  :flavor "Who else will teach the stories of good and evil?"
   :illustrator "Zefanya Langkan Maega"
+  :num-extra-faces 1
   :position 23
   :quantity 1
   :set-id "elevation"}
@@ -218,7 +221,7 @@
   :position 32
   :quantity 3
   :set-id "elevation"}
- {:card-id "knickknack-o-brian"
+ {:card-id "knickknack-obrian"
   :code "35033"
   :flavor "There are a hundred currencies in the undercity, and Knickknack takes them all. Creds and rupiah get you noodles. For his secret menu, he’ll take your burnt-out rigs, your sterilized virii. But to taste his smoked vatchicken stew, bring him what he values most: your story."
   :illustrator "Alecia Doyley"
@@ -314,7 +317,7 @@
   :position 46
   :quantity 1
   :set-id "elevation"}
- {:card-id "pt-untaian-life-s-building-blocks"
+ {:card-id "pt-untaian-lifes-building-blocks"
   :code "35047"
   :flavor "The Looming Future."
   :illustrator "Kira L. Nguyen"
@@ -384,8 +387,11 @@
   :set-id "elevation"}
  {:card-id "nebula-talent-management-making-stars"
   :code "35057"
-  :flavor "Igniting your potential.\nNever stop shining."
+  :faces [{:flavor "Never stop shining."
+           :index 0}]
+  :flavor "Igniting your potential."
   :illustrator "Emilio Rodríguez"
+  :num-extra-faces 1
   :position 57
   :quantity 1
   :set-id "elevation"}
@@ -518,9 +524,9 @@
   :position 76
   :quantity 3
   :set-id "elevation"}
- {:card-id "key-performance-indicators"
+ {:attribution "Designed by 2023 World Champion William “Sokka” Huang"
+  :card-id "key-performance-indicators"
   :code "35077"
-  :flavor "<strong>Designed by 2023 World Champion William “Sokka” Huang</strong>"
   :illustrator "Wyn Lacabra"
   :position 77
   :quantity 3

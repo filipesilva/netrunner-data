@@ -12,7 +12,7 @@
   :position 2
   :quantity 1
   :set-id "system-core-2019"}
- {:card-id "queen-s-gambit"
+ {:card-id "queens-gambit"
   :code "25003"
   :illustrator "Matt Zeilinger"
   :position 3
@@ -302,7 +302,7 @@
   :position 45
   :quantity 1
   :set-id "system-core-2019"}
- {:card-id "the-maker-s-eye"
+ {:card-id "the-makers-eye"
   :code "25046"
   :flavor "\"Some of the professionals have good instincts, but they can't see beyond the data. They can't see the matrix.\" -Ele \"Smoke\" Scovak"
   :illustrator "Liiga Smilshkalne"
@@ -370,7 +370,7 @@
   :position 55
   :quantity 2
   :set-id "system-core-2019"}
- {:card-id "aesop-s-pawnshop"
+ {:card-id "aesops-pawnshop"
   :code "25056"
   :flavor "You didn't mention Aesop's arm unless you wanted an earful. Sometimes he talked about it in such a way that you wondered why he didn't laser his other arm off as well."
   :illustrator "Adam Schumpert"
@@ -874,7 +874,7 @@
   :position 131
   :quantity 2
   :set-id "system-core-2019"}
- {:card-id "hadrian-s-wall"
+ {:card-id "hadrians-wall"
   :code "25132"
   :flavor "\"He had a bit of an ego, ol' Hadrian. His constructs live up to it though.\" -g00ru"
   :illustrator "Liiga Smilshkalne"

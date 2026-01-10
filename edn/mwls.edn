@@ -1,4 +1,339 @@
-[{:cards {"architect" {:global-penalty 1}
+[{:cards {"24-7-news-cycle" {:points 1}
+          "aaron-marron" {:points 1}
+          "accelerated-diagnostics" {:points 2}
+          "account-siphon" {:points 3}
+          "anoetic-void" {:points 1}
+          "bio-ethics-association" {:points 1}
+          "blackmail" {:points 2}
+          "bloo-moose" {:points 1}
+          "breached-dome" {:points 1}
+          "breaking-news" {:points 1}
+          "caprice-nisei" {:points 1}
+          "cerebral-imaging-infinite-frontiers" {:points 2}
+          "clan-vengeance" {:points 2}
+          "counter-surveillance" {:points 1}
+          "crowdfunding" {:points 2}
+          "data-leak-reversal" {:points 2}
+          "ddos" {:points 2}
+          "deja-vu" {:points 1}
+          "employee-strike" {:points 1}
+          "estelle-moon" {:points 2}
+          "false-echo" {:points 2}
+          "friends-in-high-places" {:points 2}
+          "hyperdriver" {:points 3}
+          "jackson-howard" {:points 2}
+          "jinteki-potential-unleashed" {:points 3}
+          "kakugo" {:points 1}
+          "mars-for-martians" {:points 2}
+          "mti-mwekundu-life-improved" {:points 2}
+          "mumbad-city-hall" {:points 2}
+          "obokata-protocol" {:points 1}
+          "power-shutdown" {:points 2}
+          "rumor-mill" {:points 1}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "scarcity-of-resources" {:points 1}
+          "sensie-actors-union" {:points 2}
+          "shock" {:points 1}
+          "sifr" {:points 2}
+          "snitch" {:points 1}
+          "spin-doctor" {:points 1}
+          "sting" {:points 1}
+          "tech-trader" {:points 2}
+          "temujin-contract" {:points 3}
+          "vamp" {:points 1}
+          "violet-level-clearance" {:points 1}
+          "whampoa-reclamation" {:points 1}
+          "zer0" {:points 1}}
+  :date-start "2021-07-10"
+  :format "eternal"
+  :id "eternal-points-list-version-1-0"
+  :name "Eternal Points List, Version 1.0"
+  :point-limit 7}
+ {:cards {"24-7-news-cycle" {:points 1}
+          "aaron-marron" {:points 1}
+          "accelerated-diagnostics" {:deck-limit 0}
+          "account-siphon" {:points 3}
+          "anoetic-void" {:points 1}
+          "aumakua" {:points 1}
+          "bio-ethics-association" {:points 2}
+          "blackmail" {:points 2}
+          "bloo-moose" {:points 1}
+          "breached-dome" {:points 1}
+          "breaking-news" {:points 1}
+          "caprice-nisei" {:points 1}
+          "cerebral-imaging-infinite-frontiers" {:points 2}
+          "clan-vengeance" {:points 2}
+          "counter-surveillance" {:points 1}
+          "crowdfunding" {:points 2}
+          "data-leak-reversal" {:points 2}
+          "ddos" {:points 2}
+          "deja-vu" {:points 1}
+          "employee-strike" {:points 2}
+          "estelle-moon" {:points 3}
+          "false-echo" {:points 2}
+          "film-critic" {:points 1}
+          "friends-in-high-places" {:points 2}
+          "hacktivist-meeting" {:points 1}
+          "hired-help" {:deck-limit 0}
+          "hyperdriver" {:points 3}
+          "industrial-genomics-growing-solutions" {:points 2}
+          "jackson-howard" {:points 2}
+          "jinteki-potential-unleashed" {:points 3}
+          "kakugo" {:points 1}
+          "mars-for-martians" {:points 2}
+          "mti-mwekundu-life-improved" {:points 2}
+          "mumbad-city-hall" {:points 3}
+          "museum-of-history" {:points 1}
+          "obokata-protocol" {:points 1}
+          "project-vacheron" {:points 1}
+          "rumor-mill" {:points 3}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "scarcity-of-resources" {:points 2}
+          "sensie-actors-union" {:points 2}
+          "shock" {:points 1}
+          "sifr" {:points 2}
+          "snitch" {:points 1}
+          "spin-doctor" {:points 1}
+          "sting" {:points 1}
+          "tech-trader" {:points 2}
+          "temujin-contract" {:points 3}
+          "violet-level-clearance" {:points 1}
+          "watch-the-world-burn" {:deck-limit 0}
+          "whampoa-reclamation" {:points 1}
+          "zer0" {:points 1}}
+  :date-start "2021-11-12"
+  :format "eternal"
+  :id "eternal-points-list-21-11"
+  :name "Eternal Points List 21.11"
+  :point-limit 7}
+ {:cards {"24-7-news-cycle" {:points 1}
+          "aaron-marron" {:points 1}
+          "accelerated-diagnostics" {:deck-limit 0}
+          "account-siphon" {:points 3}
+          "anoetic-void" {:points 1}
+          "aumakua" {:points 1}
+          "bio-ethics-association" {:points 2}
+          "blackmail" {:points 2}
+          "bloo-moose" {:points 1}
+          "breached-dome" {:points 1}
+          "breaking-news" {:points 1}
+          "caprice-nisei" {:points 1}
+          "cerebral-imaging-infinite-frontiers" {:points 2}
+          "clan-vengeance" {:points 2}
+          "counter-surveillance" {:points 1}
+          "crowdfunding" {:points 2}
+          "data-leak-reversal" {:points 2}
+          "ddos" {:points 2}
+          "deja-vu" {:points 1}
+          "employee-strike" {:points 2}
+          "estelle-moon" {:points 3}
+          "false-echo" {:points 2}
+          "film-critic" {:points 1}
+          "friends-in-high-places" {:points 2}
+          "hacktivist-meeting" {:points 1}
+          "hired-help" {:deck-limit 0}
+          "hyperdriver" {:points 3}
+          "industrial-genomics-growing-solutions" {:points 2}
+          "jackson-howard" {:points 2}
+          "jinteki-potential-unleashed" {:points 3}
+          "kakugo" {:points 1}
+          "mars-for-martians" {:points 2}
+          "mti-mwekundu-life-improved" {:points 2}
+          "mumbad-city-hall" {:points 3}
+          "museum-of-history" {:points 2}
+          "mutually-assured-destruction" {:points 2}
+          "ob-superheavy-logistics-extract-export-excel" {:points 1}
+          "obokata-protocol" {:points 1}
+          "project-vacheron" {:points 1}
+          "rumor-mill" {:points 3}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "scarcity-of-resources" {:points 2}
+          "sensie-actors-union" {:points 2}
+          "shock" {:points 1}
+          "sifr" {:points 2}
+          "snitch" {:points 1}
+          "spin-doctor" {:points 1}
+          "sting" {:points 1}
+          "tech-trader" {:points 2}
+          "temujin-contract" {:points 3}
+          "violet-level-clearance" {:points 1}
+          "watch-the-world-burn" {:deck-limit 0}
+          "whampoa-reclamation" {:points 1}
+          "zer0" {:points 1}}
+  :date-start "2022-09-26"
+  :format "eternal"
+  :id "eternal-points-list-22-09"
+  :name "Eternal Points List 22.09"
+  :point-limit 7}
+ {:cards {"24-7-news-cycle" {:points 1}
+          "aaron-marron" {:points 1}
+          "accelerated-diagnostics" {:deck-limit 0}
+          "account-siphon" {:points 3}
+          "anoetic-void" {:points 1}
+          "aumakua" {:points 1}
+          "bio-ethics-association" {:points 2}
+          "blackmail" {:points 2}
+          "bloo-moose" {:points 1}
+          "breached-dome" {:points 1}
+          "breaking-news" {:points 1}
+          "caprice-nisei" {:points 1}
+          "cerebral-imaging-infinite-frontiers" {:points 2}
+          "clan-vengeance" {:points 2}
+          "counter-surveillance" {:points 1}
+          "crowdfunding" {:points 2}
+          "data-leak-reversal" {:points 2}
+          "ddos" {:points 2}
+          "deja-vu" {:points 1}
+          "employee-strike" {:points 2}
+          "estelle-moon" {:points 3}
+          "false-echo" {:points 2}
+          "film-critic" {:points 1}
+          "friends-in-high-places" {:points 2}
+          "hacktivist-meeting" {:points 1}
+          "hired-help" {:deck-limit 0}
+          "hyperdriver" {:points 3}
+          "industrial-genomics-growing-solutions" {:points 2}
+          "jackson-howard" {:points 2}
+          "jinteki-potential-unleashed" {:points 3}
+          "kakugo" {:points 1}
+          "mars-for-martians" {:points 2}
+          "mti-mwekundu-life-improved" {:points 1}
+          "mumbad-city-hall" {:points 3}
+          "museum-of-history" {:points 2}
+          "mutually-assured-destruction" {:points 2}
+          "ob-superheavy-logistics-extract-export-excel" {:points 2}
+          "obokata-protocol" {:points 1}
+          "project-vacheron" {:points 1}
+          "rumor-mill" {:points 3}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "scarcity-of-resources" {:points 2}
+          "sensie-actors-union" {:points 2}
+          "shock" {:points 1}
+          "sifr" {:points 2}
+          "snitch" {:points 1}
+          "spin-doctor" {:points 1}
+          "sting" {:points 1}
+          "tech-trader" {:points 1}
+          "temujin-contract" {:points 3}
+          "violet-level-clearance" {:points 1}
+          "watch-the-world-burn" {:deck-limit 0}
+          "whampoa-reclamation" {:points 1}
+          "zer0" {:points 1}}
+  :date-start "2023-03-31"
+  :format "eternal"
+  :id "eternal-points-list-23-03"
+  :name "Eternal Points List 23.03"
+  :point-limit 7}
+ {:cards {"24-7-news-cycle" {:points 1}
+          "aaron-marron" {:points 1}
+          "accelerated-diagnostics" {:deck-limit 0}
+          "account-siphon" {:points 3}
+          "aghora" {:deck-limit 0}
+          "anoetic-void" {:points 1}
+          "aumakua" {:points 1}
+          "bio-ethics-association" {:points 2}
+          "blackmail" {:points 2}
+          "bloo-moose" {:points 1}
+          "breached-dome" {:points 1}
+          "breaking-news" {:points 1}
+          "caprice-nisei" {:points 1}
+          "cerebral-imaging-infinite-frontiers" {:points 2}
+          "clan-vengeance" {:points 2}
+          "counter-surveillance" {:points 1}
+          "crowdfunding" {:points 2}
+          "data-leak-reversal" {:points 2}
+          "ddos" {:points 2}
+          "deja-vu" {:points 1}
+          "employee-strike" {:points 2}
+          "estelle-moon" {:points 3}
+          "false-echo" {:points 2}
+          "film-critic" {:points 1}
+          "friends-in-high-places" {:points 2}
+          "gaslight" {:points 1}
+          "hacktivist-meeting" {:points 1}
+          "hired-help" {:deck-limit 0}
+          "hyperdriver" {:points 3}
+          "industrial-genomics-growing-solutions" {:points 2}
+          "jackson-howard" {:points 2}
+          "jinteki-potential-unleashed" {:points 3}
+          "kakugo" {:points 1}
+          "mars-for-martians" {:points 2}
+          "mti-mwekundu-life-improved" {:points 1}
+          "mumbad-city-hall" {:points 3}
+          "museum-of-history" {:points 2}
+          "mutually-assured-destruction" {:points 1}
+          "ob-superheavy-logistics-extract-export-excel" {:points 2}
+          "obokata-protocol" {:points 1}
+          "power-shutdown" {:points 1}
+          "project-vacheron" {:points 1}
+          "rumor-mill" {:points 3}
+          "sadyojata" {:deck-limit 0}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "scarcity-of-resources" {:points 2}
+          "sensie-actors-union" {:points 2}
+          "shock" {:points 1}
+          "sifr" {:points 2}
+          "snitch" {:points 1}
+          "spin-doctor" {:points 1}
+          "sting" {:points 1}
+          "tech-trader" {:points 1}
+          "temujin-contract" {:points 3}
+          "vamadeva" {:deck-limit 0}
+          "violet-level-clearance" {:points 1}
+          "wage-workers" {:points 1}
+          "watch-the-world-burn" {:deck-limit 0}
+          "whampoa-reclamation" {:points 1}
+          "zer0" {:points 1}}
+  :date-start "2023-12-08"
+  :format "eternal"
+  :id "eternal-points-list-23-11"
+  :name "Eternal Points List 23.11"
+  :point-limit 7}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
+          "aaron-marron" {:deck-limit 0}
+          "aesops-pawnshop" {:is-restricted 1}
+          "bio-ethics-association" {:is-restricted 1}
+          "bloo-moose" {:deck-limit 0}
+          "brain-rewiring" {:is-restricted 1}
+          "bryan-stinson" {:is-restricted 1}
+          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
+          "clone-suffrage-movement" {:deck-limit 0}
+          "employee-strike" {:is-restricted 1}
+          "estelle-moon" {:deck-limit 0}
+          "faust" {:deck-limit 0}
+          "film-critic" {:is-restricted 1}
+          "friends-in-high-places" {:deck-limit 0}
+          "gang-sign" {:is-restricted 1}
+          "global-food-initiative" {:is-restricted 1}
+          "hunter-seeker" {:is-restricted 1}
+          "hyperdriver" {:deck-limit 0}
+          "inversificator" {:is-restricted 1}
+          "jinteki-potential-unleashed" {:is-restricted 1}
+          "levy-ar-lab-access" {:is-restricted 1}
+          "mad-dash" {:is-restricted 1}
+          "magnum-opus" {:is-restricted 1}
+          "mars-for-martians" {:deck-limit 0}
+          "mother-goddess" {:is-restricted 1}
+          "mumba-temple" {:is-restricted 1}
+          "mumbad-city-hall" {:is-restricted 1}
+          "museum-of-history" {:deck-limit 0}
+          "obokata-protocol" {:is-restricted 1}
+          "rumor-mill" {:is-restricted 1}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "sensie-actors-union" {:deck-limit 0}
+          "sifr" {:deck-limit 0}
+          "skorpios-defense-systems-persuasive-power" {:is-restricted 1}
+          "surveyor" {:is-restricted 1}
+          "tapwrm" {:deck-limit 0}
+          "temujin-contract" {:deck-limit 0}
+          "violet-level-clearance" {:is-restricted 1}
+          "whampoa-reclamation" {:is-restricted 1}
+          "zer0" {:deck-limit 0}}
+  :date-start "2018-09-06"
+  :format "snapshot"
+  :id "snapshot-ban-list-1-0"
+  :name "Snapshot Ban List 1.0"}
+ {:cards {"architect" {:global-penalty 1}
           "astroscript-pilot-program" {:global-penalty 1}
           "cerberus-lady-h1" {:global-penalty 1}
           "clone-chip" {:global-penalty 1}
@@ -57,7 +392,7 @@
   :id "napd-mwl-1-2"
   :name "NAPD MWL 1.2"}
  {:cards {"aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
+          "aesops-pawnshop" {:is-restricted 1}
           "bio-ethics-association" {:is-restricted 1}
           "bloo-moose" {:deck-limit 0}
           "clone-chip" {:is-restricted 1}
@@ -88,7 +423,7 @@
   :id "napd-mwl-2-0"
   :name "NAPD MWL 2.0"}
  {:cards {"aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
+          "aesops-pawnshop" {:is-restricted 1}
           "bio-ethics-association" {:is-restricted 1}
           "bloo-moose" {:deck-limit 0}
           "brain-rewiring" {:is-restricted 1}
@@ -125,7 +460,7 @@
   :name "NAPD MWL 2.1"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
+          "aesops-pawnshop" {:is-restricted 1}
           "bio-ethics-association" {:is-restricted 1}
           "bloo-moose" {:deck-limit 0}
           "brain-rewiring" {:is-restricted 1}
@@ -167,298 +502,6 @@
   :format "standard"
   :id "napd-mwl-2-2"
   :name "NAPD MWL 2.2"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "bio-ethics-association" {:is-restricted 1}
-          "bloo-moose" {:deck-limit 0}
-          "bryan-stinson" {:deck-limit 0}
-          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
-          "clone-suffrage-movement" {:deck-limit 0}
-          "commercial-bankers-group" {:is-restricted 1}
-          "employee-strike" {:is-restricted 1}
-          "excalibur" {:is-restricted 1}
-          "faust" {:deck-limit 0}
-          "film-critic" {:is-restricted 1}
-          "friends-in-high-places" {:deck-limit 0}
-          "gang-sign" {:is-restricted 1}
-          "global-food-initiative" {:is-restricted 1}
-          "hired-help" {:deck-limit 0}
-          "hyperdriver" {:deck-limit 0}
-          "inversificator" {:is-restricted 1}
-          "jinteki-potential-unleashed" {:is-restricted 1}
-          "levy-ar-lab-access" {:is-restricted 1}
-          "mad-dash" {:is-restricted 1}
-          "mars-for-martians" {:deck-limit 0}
-          "mother-goddess" {:is-restricted 1}
-          "mti-mwekundu-life-improved" {:is-restricted 1}
-          "mumba-temple" {:is-restricted 1}
-          "mumbad-city-hall" {:is-restricted 1}
-          "museum-of-history" {:deck-limit 0}
-          "obokata-protocol" {:is-restricted 1}
-          "paperclip" {:is-restricted 1}
-          "rumor-mill" {:is-restricted 1}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sensie-actors-union" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "surveyor" {:is-restricted 1}
-          "tapwrm" {:deck-limit 0}
-          "temujin-contract" {:deck-limit 0}
-          "violet-level-clearance" {:is-restricted 1}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:is-restricted 1}
-          "zer0" {:deck-limit 0}}
-  :date-start "2018-12-21"
-  :format "standard"
-  :id "standard-mwl-3-0"
-  :name "Standard MWL 3.0"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "bio-ethics-association" {:is-restricted 1}
-          "bloo-moose" {:deck-limit 0}
-          "bryan-stinson" {:deck-limit 0}
-          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
-          "clone-suffrage-movement" {:deck-limit 0}
-          "commercial-bankers-group" {:is-restricted 1}
-          "crowdfunding" {:is-restricted 1}
-          "dorm-computer" {:is-restricted 1}
-          "employee-strike" {:is-restricted 1}
-          "excalibur" {:is-restricted 1}
-          "faust" {:deck-limit 0}
-          "film-critic" {:is-restricted 1}
-          "friends-in-high-places" {:deck-limit 0}
-          "gang-sign" {:is-restricted 1}
-          "global-food-initiative" {:is-restricted 1}
-          "hired-help" {:deck-limit 0}
-          "hyperdriver" {:deck-limit 0}
-          "inversificator" {:is-restricted 1}
-          "jinteki-potential-unleashed" {:deck-limit 0}
-          "levy-ar-lab-access" {:is-restricted 1}
-          "mad-dash" {:is-restricted 1}
-          "mars-for-martians" {:deck-limit 0}
-          "mother-goddess" {:is-restricted 1}
-          "mti-mwekundu-life-improved" {:is-restricted 1}
-          "mumba-temple" {:is-restricted 1}
-          "mumbad-city-hall" {:is-restricted 1}
-          "museum-of-history" {:deck-limit 0}
-          "obokata-protocol" {:is-restricted 1}
-          "paperclip" {:is-restricted 1}
-          "rumor-mill" {:is-restricted 1}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sensie-actors-union" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "surveyor" {:is-restricted 1}
-          "tapwrm" {:deck-limit 0}
-          "temujin-contract" {:deck-limit 0}
-          "violet-level-clearance" {:is-restricted 1}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:is-restricted 1}
-          "zer0" {:deck-limit 0}}
-  :date-start "2019-02-22"
-  :format "standard"
-  :id "standard-mwl-3-1"
-  :name "Standard MWL 3.1"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "bio-ethics-association" {:is-restricted 1}
-          "bloo-moose" {:deck-limit 0}
-          "bryan-stinson" {:deck-limit 0}
-          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
-          "clone-suffrage-movement" {:deck-limit 0}
-          "crowdfunding" {:is-restricted 1}
-          "dorm-computer" {:is-restricted 1}
-          "employee-strike" {:deck-limit 0}
-          "excalibur" {:is-restricted 1}
-          "faust" {:deck-limit 0}
-          "film-critic" {:is-restricted 1}
-          "friends-in-high-places" {:deck-limit 0}
-          "gang-sign" {:is-restricted 1}
-          "global-food-initiative" {:is-restricted 1}
-          "gpi-net-tap" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "hyperdriver" {:deck-limit 0}
-          "inversificator" {:is-restricted 1}
-          "jinteki-potential-unleashed" {:deck-limit 0}
-          "laamb" {:is-restricted 1}
-          "labor-rights" {:is-restricted 1}
-          "levy-ar-lab-access" {:is-restricted 1}
-          "mad-dash" {:is-restricted 1}
-          "mars-for-martians" {:deck-limit 0}
-          "mother-goddess" {:is-restricted 1}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "mumba-temple" {:is-restricted 1}
-          "mumbad-city-hall" {:deck-limit 0}
-          "museum-of-history" {:deck-limit 0}
-          "obokata-protocol" {:is-restricted 1}
-          "paperclip" {:is-restricted 1}
-          "rumor-mill" {:is-restricted 1}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sensie-actors-union" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "surveyor" {:is-restricted 1}
-          "tapwrm" {:deck-limit 0}
-          "temujin-contract" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:is-restricted 1}
-          "zer0" {:deck-limit 0}}
-  :date-start "2019-05-10"
-  :format "standard"
-  :id "standard-mwl-3-2"
-  :name "Standard MWL 3.2"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "au-revoir" {:is-restricted 1}
-          "bio-ethics-association" {:is-restricted 1}
-          "bloo-moose" {:deck-limit 0}
-          "bryan-stinson" {:deck-limit 0}
-          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
-          "clone-suffrage-movement" {:deck-limit 0}
-          "corporate-grant" {:is-restricted 1}
-          "crowdfunding" {:deck-limit 0}
-          "dorm-computer" {:is-restricted 1}
-          "employee-strike" {:deck-limit 0}
-          "faust" {:deck-limit 0}
-          "film-critic" {:is-restricted 1}
-          "friends-in-high-places" {:deck-limit 0}
-          "gang-sign" {:is-restricted 1}
-          "global-food-initiative" {:is-restricted 1}
-          "gpi-net-tap" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "hyperdriver" {:deck-limit 0}
-          "inversificator" {:is-restricted 1}
-          "jinteki-potential-unleashed" {:deck-limit 0}
-          "laamb" {:is-restricted 1}
-          "labor-rights" {:is-restricted 1}
-          "levy-ar-lab-access" {:is-restricted 1}
-          "mad-dash" {:is-restricted 1}
-          "mars-for-martians" {:deck-limit 0}
-          "mother-goddess" {:is-restricted 1}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "mumba-temple" {:is-restricted 1}
-          "mumbad-city-hall" {:deck-limit 0}
-          "museum-of-history" {:deck-limit 0}
-          "obokata-protocol" {:is-restricted 1}
-          "paperclip" {:is-restricted 1}
-          "power-tap" {:is-restricted 1}
-          "rumor-mill" {:is-restricted 1}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sensie-actors-union" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "siu" {:is-restricted 1}
-          "tapwrm" {:deck-limit 0}
-          "tech-trader" {:is-restricted 1}
-          "temujin-contract" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:is-restricted 1}
-          "zealous-judge" {:is-restricted 1}
-          "zer0" {:deck-limit 0}}
-  :date-start "2019-07-19"
-  :format "standard"
-  :id "standard-mwl-3-3"
-  :name "Standard MWL 3.3"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "au-revoir" {:is-restricted 1}
-          "bio-ethics-association" {:is-restricted 1}
-          "bloo-moose" {:deck-limit 0}
-          "bryan-stinson" {:deck-limit 0}
-          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
-          "clone-suffrage-movement" {:deck-limit 0}
-          "corporate-grant" {:is-restricted 1}
-          "crowdfunding" {:deck-limit 0}
-          "dorm-computer" {:is-restricted 1}
-          "employee-strike" {:deck-limit 0}
-          "engolo" {:is-restricted 1}
-          "faust" {:deck-limit 0}
-          "film-critic" {:is-restricted 1}
-          "friends-in-high-places" {:deck-limit 0}
-          "gang-sign" {:is-restricted 1}
-          "global-food-initiative" {:is-restricted 1}
-          "gpi-net-tap" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "hyperdriver" {:deck-limit 0}
-          "inversificator" {:is-restricted 1}
-          "jinteki-potential-unleashed" {:deck-limit 0}
-          "laamb" {:deck-limit 0}
-          "labor-rights" {:is-restricted 1}
-          "levy-ar-lab-access" {:is-restricted 1}
-          "mad-dash" {:is-restricted 1}
-          "mars-for-martians" {:deck-limit 0}
-          "mother-goddess" {:is-restricted 1}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "mumba-temple" {:is-restricted 1}
-          "mumbad-city-hall" {:deck-limit 0}
-          "museum-of-history" {:deck-limit 0}
-          "obokata-protocol" {:is-restricted 1}
-          "paperclip" {:is-restricted 1}
-          "power-tap" {:is-restricted 1}
-          "rumor-mill" {:is-restricted 1}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sensie-actors-union" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "tapwrm" {:deck-limit 0}
-          "tech-trader" {:is-restricted 1}
-          "temujin-contract" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:is-restricted 1}
-          "zealous-judge" {:deck-limit 0}
-          "zer0" {:deck-limit 0}}
-  :date-start "2019-09-20"
-  :format "standard"
-  :id "standard-mwl-3-4"
-  :name "Standard MWL 3.4"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aaron-marron" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "bio-ethics-association" {:is-restricted 1}
-          "bloo-moose" {:deck-limit 0}
-          "bryan-stinson" {:deck-limit 0}
-          "clone-suffrage-movement" {:deck-limit 0}
-          "corporate-grant" {:is-restricted 1}
-          "crowdfunding" {:deck-limit 0}
-          "dorm-computer" {:is-restricted 1}
-          "employee-strike" {:deck-limit 0}
-          "engolo" {:is-restricted 1}
-          "faust" {:deck-limit 0}
-          "film-critic" {:is-restricted 1}
-          "friends-in-high-places" {:deck-limit 0}
-          "gang-sign" {:is-restricted 1}
-          "global-food-initiative" {:is-restricted 1}
-          "gpi-net-tap" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "hyperdriver" {:deck-limit 0}
-          "inversificator" {:is-restricted 1}
-          "jinteki-potential-unleashed" {:deck-limit 0}
-          "laamb" {:deck-limit 0}
-          "labor-rights" {:is-restricted 1}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "mad-dash" {:is-restricted 1}
-          "mars-for-martians" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "mumba-temple" {:is-restricted 1}
-          "mumbad-city-hall" {:deck-limit 0}
-          "museum-of-history" {:deck-limit 0}
-          "obokata-protocol" {:is-restricted 1}
-          "paperclip" {:is-restricted 1}
-          "rumor-mill" {:is-restricted 1}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sensie-actors-union" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "tapwrm" {:deck-limit 0}
-          "tech-trader" {:is-restricted 1}
-          "temujin-contract" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:is-restricted 1}
-          "zealous-judge" {:deck-limit 0}
-          "zer0" {:deck-limit 0}}
-  :date-start "2019-12-31"
-  :format "standard"
-  :id "standard-mwl-3-4b"
-  :name "Standard MWL 3.4b"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
           "another-day-another-paycheck" {:deck-limit 0}
@@ -1039,630 +1082,4 @@
   :date-start "2022-09-23"
   :format "standard"
   :id "standard-ban-list-22-09"
-  :name "Standard Ban List 22.09"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aaron-marron" {:deck-limit 0}
-          "another-day-another-paycheck" {:deck-limit 0}
-          "archived-memories" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "breached-dome" {:deck-limit 0}
-          "bryan-stinson" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "clan-vengeance" {:deck-limit 0}
-          "corporate-grant" {:deck-limit 0}
-          "crowdfunding" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "death-and-taxes" {:deck-limit 0}
-          "door-to-door" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "employee-strike" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "enforced-curfew" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "friends-in-high-places" {:deck-limit 0}
-          "game-changer" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "government-investigations" {:deck-limit 0}
-          "gpi-net-tap" {:deck-limit 0}
-          "high-profile-target" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "interdiction" {:deck-limit 0}
-          "jinteki-potential-unleashed" {:deck-limit 0}
-          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
-          "kakugo" {:deck-limit 0}
-          "kill-switch" {:deck-limit 0}
-          "laamb" {:deck-limit 0}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "mass-commercialization" {:deck-limit 0}
-          "media-blitz" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "pad-tap" {:deck-limit 0}
-          "preemptive-action" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "rolling-brownout" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "scarcity-of-resources" {:deck-limit 0}
-          "service-outage" {:deck-limit 0}
-          "shipment-from-tennin" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "slot-machine" {:deck-limit 0}
-          "ssl-endorsement" {:deck-limit 0}
-          "surveillance-sweep" {:deck-limit 0}
-          "system-outage" {:deck-limit 0}
-          "system-seizure" {:deck-limit 0}
-          "temujin-contract" {:deck-limit 0}
-          "violet-level-clearance" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:deck-limit 0}}
-  :date-start "2023-03-03"
-  :format "standard"
-  :id "standard-ban-list-23-03"
-  :name "Standard Ban List 23.03"}
- {:cards {"another-day-another-paycheck" {:deck-limit 0}
-          "archived-memories" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "breached-dome" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "clan-vengeance" {:deck-limit 0}
-          "corporate-grant" {:deck-limit 0}
-          "crowdfunding" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "death-and-taxes" {:deck-limit 0}
-          "door-to-door" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "employee-strike" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "enforced-curfew" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "game-changer" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "government-investigations" {:deck-limit 0}
-          "high-profile-target" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "interdiction" {:deck-limit 0}
-          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
-          "kakugo" {:deck-limit 0}
-          "kill-switch" {:deck-limit 0}
-          "laamb" {:deck-limit 0}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "mass-commercialization" {:deck-limit 0}
-          "media-blitz" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "obokata-protocol" {:deck-limit 0}
-          "pad-tap" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "rolling-brownout" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "scarcity-of-resources" {:deck-limit 0}
-          "service-outage" {:deck-limit 0}
-          "shipment-from-tennin" {:deck-limit 0}
-          "slot-machine" {:deck-limit 0}
-          "ssl-endorsement" {:deck-limit 0}
-          "surveillance-sweep" {:deck-limit 0}
-          "system-outage" {:deck-limit 0}
-          "system-seizure" {:deck-limit 0}
-          "tithonium" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:deck-limit 0}}
-  :date-start "2023-08-11"
-  :format "standard"
-  :id "standard-ban-list-23-08"
-  :name "Standard Ban List 23.08"}
- {:cards {"another-day-another-paycheck" {:deck-limit 0}
-          "archived-memories" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "breached-dome" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "clan-vengeance" {:deck-limit 0}
-          "corporate-grant" {:deck-limit 0}
-          "crowdfunding" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "death-and-taxes" {:deck-limit 0}
-          "door-to-door" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "employee-strike" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "enforced-curfew" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "game-changer" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "government-investigations" {:deck-limit 0}
-          "high-profile-target" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "interdiction" {:deck-limit 0}
-          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
-          "kakugo" {:deck-limit 0}
-          "kill-switch" {:deck-limit 0}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "mass-commercialization" {:deck-limit 0}
-          "media-blitz" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "obokata-protocol" {:deck-limit 0}
-          "pad-tap" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "rolling-brownout" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "scarcity-of-resources" {:deck-limit 0}
-          "service-outage" {:deck-limit 0}
-          "shipment-from-tennin" {:deck-limit 0}
-          "slot-machine" {:deck-limit 0}
-          "ssl-endorsement" {:deck-limit 0}
-          "surveillance-sweep" {:deck-limit 0}
-          "system-outage" {:deck-limit 0}
-          "system-seizure" {:deck-limit 0}
-          "tithonium" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:deck-limit 0}}
-  :date-start "2023-09-22"
-  :format "standard"
-  :id "standard-ban-list-23-09"
-  :name "Standard Ban List 23.09"}
- {:cards {"drago-ivanov" {:deck-limit 0}
-          "endurance" {:deck-limit 0}}
-  :date-start "2023-09-21"
-  :format "standard"
-  :id "startup-ban-list-24-01-ignore-active-date"
-  :name "Startup Ban List 24.01 (ignore active date)"}
- {:cards {"another-day-another-paycheck" {:deck-limit 0}
-          "archived-memories" {:deck-limit 0}
-          "attitude-adjustment" {:deck-limit 0}
-          "bellona" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "boomerang" {:deck-limit 0}
-          "breached-dome" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "clan-vengeance" {:deck-limit 0}
-          "cleaver" {:deck-limit 0}
-          "corporate-grant" {:deck-limit 0}
-          "crowdfunding" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "daily-casts" {:deck-limit 0}
-          "death-and-taxes" {:deck-limit 0}
-          "dirty-laundry" {:deck-limit 0}
-          "door-to-door" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "drudge-work" {:deck-limit 0}
-          "employee-strike" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "enforced-curfew" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "game-changer" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "government-investigations" {:deck-limit 0}
-          "high-profile-target" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "interdiction" {:deck-limit 0}
-          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
-          "kakugo" {:deck-limit 0}
-          "kill-switch" {:deck-limit 0}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "mass-commercialization" {:deck-limit 0}
-          "media-blitz" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "ngo-front" {:deck-limit 0}
-          "obokata-protocol" {:deck-limit 0}
-          "pad-tap" {:deck-limit 0}
-          "paladin-poemu" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rashida-jaheem" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "rolling-brownout" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "scarcity-of-resources" {:deck-limit 0}
-          "self-modifying-code" {:deck-limit 0}
-          "service-outage" {:deck-limit 0}
-          "shipment-from-tennin" {:deck-limit 0}
-          "slot-machine" {:deck-limit 0}
-          "ssl-endorsement" {:deck-limit 0}
-          "surveillance-sweep" {:deck-limit 0}
-          "system-outage" {:deck-limit 0}
-          "system-seizure" {:deck-limit 0}
-          "tithonium" {:deck-limit 0}
-          "tsakhia-bankhar-gantulga" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:deck-limit 0}}
-  :date-start "2023-09-21"
-  :format "standard"
-  :id "sunset-ban-list-24-01"
-  :name "Sunset Ban List 24.01"}
- {:cards {"another-day-another-paycheck" {:deck-limit 0}
-          "archived-memories" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "breached-dome" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "clan-vengeance" {:deck-limit 0}
-          "corporate-grant" {:deck-limit 0}
-          "crowdfunding" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "death-and-taxes" {:deck-limit 0}
-          "door-to-door" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "employee-strike" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "enforced-curfew" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "formicary" {:deck-limit 0}
-          "game-changer" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "government-investigations" {:deck-limit 0}
-          "high-profile-target" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "interdiction" {:deck-limit 0}
-          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
-          "kakugo" {:deck-limit 0}
-          "kill-switch" {:deck-limit 0}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "mass-commercialization" {:deck-limit 0}
-          "media-blitz" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "obokata-protocol" {:deck-limit 0}
-          "pad-tap" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "rolling-brownout" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "scarcity-of-resources" {:deck-limit 0}
-          "service-outage" {:deck-limit 0}
-          "shipment-from-tennin" {:deck-limit 0}
-          "slot-machine" {:deck-limit 0}
-          "ssl-endorsement" {:deck-limit 0}
-          "surveillance-sweep" {:deck-limit 0}
-          "system-outage" {:deck-limit 0}
-          "system-seizure" {:deck-limit 0}
-          "tithonium" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:deck-limit 0}}
-  :date-start "2024-03-30"
-  :format "standard"
-  :id "standard-ban-list-24-03"
-  :name "Standard Ban List 24.03"}
- {:cards {"another-day-another-paycheck" {:deck-limit 0}
-          "archived-memories" {:deck-limit 0}
-          "bellona" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "breached-dome" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "clan-vengeance" {:deck-limit 0}
-          "corporate-grant" {:deck-limit 0}
-          "crowdfunding" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "death-and-taxes" {:deck-limit 0}
-          "door-to-door" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "employee-strike" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "enforced-curfew" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "formicary" {:deck-limit 0}
-          "game-changer" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "government-investigations" {:deck-limit 0}
-          "high-profile-target" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "interdiction" {:deck-limit 0}
-          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
-          "kakugo" {:deck-limit 0}
-          "kill-switch" {:deck-limit 0}
-          "knobkierie" {:deck-limit 0}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "mass-commercialization" {:deck-limit 0}
-          "media-blitz" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "obokata-protocol" {:deck-limit 0}
-          "pad-tap" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "reconstruction-contract" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "rolling-brownout" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "scarcity-of-resources" {:deck-limit 0}
-          "service-outage" {:deck-limit 0}
-          "shipment-from-tennin" {:deck-limit 0}
-          "slot-machine" {:deck-limit 0}
-          "ssl-endorsement" {:deck-limit 0}
-          "surveillance-sweep" {:deck-limit 0}
-          "system-outage" {:deck-limit 0}
-          "system-seizure" {:deck-limit 0}
-          "tithonium" {:deck-limit 0}
-          "tributary" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:deck-limit 0}}
-  :date-start "2024-05-31"
-  :format "standard"
-  :id "standard-ban-list-24-05"
-  :name "Standard Ban List 24.05"}
- {:cards {"another-day-another-paycheck" {:deck-limit 0}
-          "archived-memories" {:deck-limit 0}
-          "bellona" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "breached-dome" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "clan-vengeance" {:deck-limit 0}
-          "corporate-grant" {:deck-limit 0}
-          "crowdfunding" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "death-and-taxes" {:deck-limit 0}
-          "door-to-door" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "employee-strike" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "enforced-curfew" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "formicary" {:deck-limit 0}
-          "game-changer" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "government-investigations" {:deck-limit 0}
-          "high-profile-target" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "interdiction" {:deck-limit 0}
-          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
-          "kakugo" {:deck-limit 0}
-          "kill-switch" {:deck-limit 0}
-          "knobkierie" {:deck-limit 0}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "mass-commercialization" {:deck-limit 0}
-          "media-blitz" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "obokata-protocol" {:deck-limit 0}
-          "pad-tap" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "reconstruction-contract" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "rolling-brownout" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "scarcity-of-resources" {:deck-limit 0}
-          "service-outage" {:deck-limit 0}
-          "shipment-from-tennin" {:deck-limit 0}
-          "slot-machine" {:deck-limit 0}
-          "ssl-endorsement" {:deck-limit 0}
-          "surveillance-sweep" {:deck-limit 0}
-          "system-outage" {:deck-limit 0}
-          "system-seizure" {:deck-limit 0}
-          "tithonium" {:deck-limit 0}
-          "tributary" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:deck-limit 0}
-          "world-tree" {:deck-limit 0}}
-  :date-start "2024-09-13"
-  :format "standard"
-  :id "standard-banlist-24-09"
-  :name "Standard Banlist 24.09"}
- {:cards {"creative-commission" {:deck-limit 0}
-          "pharos" {:deck-limit 0}
-          "tributary" {:deck-limit 0}}
-  :date-start "2024-09-01"
-  :format "standard"
-  :id "startup-ban-list-24-09-ignore-active-date"
-  :name "Startup Ban List 24.09 (ignore active date)"}
- {:cards {"archived-memories" {:deck-limit 0}
-          "bellona" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "breached-dome" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "clan-vengeance" {:deck-limit 0}
-          "corporate-grant" {:deck-limit 0}
-          "crowdfunding" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "death-and-taxes" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "formicary" {:deck-limit 0}
-          "game-changer" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "high-profile-target" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
-          "kakugo" {:deck-limit 0}
-          "kill-switch" {:deck-limit 0}
-          "knobkierie" {:deck-limit 0}
-          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
-          "luminal-transubstantiation" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "mass-commercialization" {:deck-limit 0}
-          "mti-mwekundu-life-improved" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "obokata-protocol" {:deck-limit 0}
-          "pad-tap" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "reconstruction-contract" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "rolling-brownout" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "shipment-from-tennin" {:deck-limit 0}
-          "slot-machine" {:deck-limit 0}
-          "ssl-endorsement" {:deck-limit 0}
-          "system-seizure" {:deck-limit 0}
-          "tithonium" {:deck-limit 0}
-          "tributary" {:deck-limit 0}
-          "trick-shot" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "whampoa-reclamation" {:deck-limit 0}
-          "world-tree" {:deck-limit 0}}
-  :date-start "2024-12-26"
-  :format "standard"
-  :id "standard-ban-list-24-12"
-  :name "Standard Ban List 24.12"}
- {:cards {"cleaver" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "pharos" {:deck-limit 0}
-          "tributary" {:deck-limit 0}}
-  :date-start "2025-04-23"
-  :format "standard"
-  :id "startup-balance-update-25-04-ignore-active-date"
-  :name "Startup Balance Update 25.04 (ignore active date)"}
- {:cards {"bellona" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "cleaver" {:deck-limit 0}
-          "creative-commission" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "daily-casts" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "k2cp-turbine" {:deck-limit 0}
-          "luminal-transubstantiation" {:deck-limit 0}
-          "moshing" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "tributary" {:deck-limit 0}
-          "trick-shot" {:deck-limit 0}
-          "world-tree" {:deck-limit 0}}
-  :date-start "2025-04-24"
-  :format "standard"
-  :id "standard-ban-list-25-04"
-  :name "Standard Ban List 25.04"}
- {:cards {"bellona" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "cleaver" {:deck-limit 0}
-          "creative-commission" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "daily-casts" {:deck-limit 0}
-          "deep-dive" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "info-bounty" {:deck-limit 0}
-          "k2cp-turbine" {:deck-limit 0}
-          "moshing" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "tributary" {:deck-limit 0}
-          "trick-shot" {:deck-limit 0}
-          "tsakhia-bankhar-gantulga" {:deck-limit 0}
-          "world-tree" {:deck-limit 0}}
-  :date-start "2025-08-01"
-  :format "standard"
-  :id "standard-ban-list-25-08"
-  :name "Standard Ban List 25.08"}
- {:cards {"bellona" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "cleaver" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "cybersand-harvester" {:deck-limit 0}
-          "daily-casts" {:deck-limit 0}
-          "deep-dive" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "info-bounty" {:deck-limit 0}
-          "k2cp-turbine" {:deck-limit 0}
-          "moshing" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "sting" {:deck-limit 0}
-          "touch-ups" {:deck-limit 0}
-          "tributary" {:deck-limit 0}
-          "trick-shot" {:deck-limit 0}
-          "tsakhia-bankhar-gantulga" {:deck-limit 0}
-          "world-tree" {:deck-limit 0}}
-  :date-start "2025-10-03"
-  :format "standard"
-  :id "standard-ban-list-25-10"
-  :name "Standard Ban List 25.10"}
- {:cards {"cleaver" {:deck-limit 0}
-          "coalescence" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "pharos" {:deck-limit 0}
-          "s-dobrado" {:deck-limit 0}
-          "tributary" {:deck-limit 0}}
-  :date-start "2025-11-03"
-  :format "standard"
-  :id "startup-balance-update-25-11-ignore-active-date"
-  :name "Startup Balance Update 25.11 (ignore active date)"}
- {:cards {"bellona" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "cleaver" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "cybersand-harvester" {:deck-limit 0}
-          "daily-casts" {:deck-limit 0}
-          "deep-dive" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "false-lead" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "info-bounty" {:deck-limit 0}
-          "k2cp-turbine" {:deck-limit 0}
-          "matryoshka" {:deck-limit 0}
-          "moshing" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "sting" {:deck-limit 0}
-          "touch-ups" {:deck-limit 0}
-          "tributary" {:deck-limit 0}
-          "trick-shot" {:deck-limit 0}
-          "tsakhia-bankhar-gantulga" {:deck-limit 0}
-          "world-tree" {:deck-limit 0}}
-  :date-start "2025-12-01"
-  :format "standard"
-  :id "standard-ban-list-25-12"
-  :name "Standard Ban List 25.12"}]
+  :name "Standard Ban List 22.09"}]
